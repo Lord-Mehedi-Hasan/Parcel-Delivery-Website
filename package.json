@@ -1,0 +1,26 @@
+{
+  "name": "parcel-delivery-website",
+  "version": "1.0.0",
+  "description": "Full-stack MERN Parcel Delivery and Express Logistics System",
+  "scripts": {
+    "start:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend && npm install",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "parcel-delivery",
+    "logistics",
+    "courier",
+    "tracking",
+    "express",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
